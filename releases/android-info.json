@@ -1,0 +1,14 @@
+{
+  "appId": "app.studentpanel.mobile",
+  "appName": "Student Panel",
+  "capacitorVersion": "7.6.9",
+  "gradleVersion": "8.11.1",
+  "minSdkVersion": 23,
+  "targetSdkVersion": 35,
+  "standaloneOnDevice": true,
+  "engine": "On-Device PGlite PostgreSQL 16 (WASM + IndexedDB) + 31 Local Express Routers",
+  "apkSize": 16277281,
+  "apkSizeFormatted": "15.52 MB",
+  "apkSha256": "934b6e76fd43beb1af7ba9f83e2bfe6525dc0fd643bc80e8a5a757cb54248a22",
+  "repoModified": false
+}
