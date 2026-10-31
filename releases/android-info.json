@@ -1,0 +1,15 @@
+{
+  "appId": "app.studentpanel.mobile",
+  "appName": "Student Panel",
+  "capacitorVersion": "7.6.9",
+  "gradleVersion": "8.11.1",
+  "minSdkVersion": 23,
+  "targetSdkVersion": 35,
+  "compileSdkVersion": 35,
+  "apkSizeBytes": 5446111,
+  "apkSizeFormatted": "5.19 MB",
+  "apkSha256": "63ac05c01262fbea055d0b3691722dcdf781cad0205a194ae9de45f858fc6214",
+  "projectZipSizeBytes": 1512962,
+  "projectZipSizeFormatted": "1.44 MB",
+  "repoModified": false
+}

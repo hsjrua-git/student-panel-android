@@ -1,0 +1,5 @@
+{
+  "name": "Student Panel — Android Companion",
+  "description": "Connected Android companion APK and web workspace for tracking students, entering periodic scores, and reviewing cafe and accounting ledgers.",
+  "requestFramePermissions": []
+}
